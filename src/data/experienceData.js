@@ -1,15 +1,15 @@
 export const experienceData = [
     {
         id: 1,
-        company: 'Yale University',
-        jobtitle: 'Yale Youth African Scholar (YYAS 2025)',
-        startYear: 'August 2023',
-        endYear: '(Incoming)'
+        company: 'Yale Youth African Scholar (YYAS 2025)',
+        jobtitle: 'Youth Scholar',
+        startYear: 'August 2025',
+        endYear: 'August 2025'
     },
     {
         id: 2,
         company: 'Lemlem School',
-        jobtitle: 'STEM Club member and Study Assistant',
+        jobtitle: 'STEM Club member and Secretary',
         startYear: '2024',
         endYear: 'Present'
     },
